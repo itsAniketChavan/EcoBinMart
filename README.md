@@ -9,7 +9,14 @@
 
 ## For Backend we use - 
 ### 1] backend Framework - nodejs
-### 2] Database MongoDB - Compass
+### 2] Database -  MongoDB Compass
+
+## Some important Packages - 
+### 1] Becrypt - for passwords hashing
+### 2] JWT - Tokenization after logging
+### 3] SMTP protocol - for sending mails
+### 4] CookieParser -  parses cookies attached to the client request object
+
 
 
 
