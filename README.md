@@ -1,11 +1,11 @@
 # EcoBinMart Website -
 
 ## - first we design required backend Api -
-
-![Logo]([https://example.com/logo.png](https://colab.research.google.com/drive/1R91UfxC1Q1NVsY5K_s2AkvimmZSrHOui))
-
+ 
 
 
+
+![Screenshot (38)](https://github.com/itsAniketChavan/EcoBinMart/assets/115894292/8cb4598b-5bff-4901-b7f5-786c2849f35c)
 
 
 
