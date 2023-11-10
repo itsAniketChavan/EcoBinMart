@@ -23,6 +23,7 @@
 ### 3] React-alerts - display alerts
 ### 4] useEffect, useState - changing states.
 ### 5] Cloudinary - To store profile/product images
+### 6] Stripe payment interface - stripe API key
 
 ## For start backend - use comand
 ### npm run dev
