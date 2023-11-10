@@ -1,5 +1,5 @@
-## EcoBinMart Website -
-# Admin Panel  
+# EcoBinMart Website -
+## Admin Panel  
 Overview
 Welcome to the admin panel of our e-commerce website! This readme is designed to provide you with essential information about the functionalities and features available in the admin section.
 
