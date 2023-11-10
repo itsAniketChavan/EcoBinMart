@@ -18,7 +18,7 @@
 ### 4] CookieParser -  parses cookies attached to the client request object
 
 ## Next we start Designing of Fronted - 
-### 1] Pakage - web Pack
+### 1] Package - web Pack
 ### 2] React-Router-Dom - Routes
 ### 3] React-alerts - display alerts
 ### 4] useEffect, useState - changing states.
